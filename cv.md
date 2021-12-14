@@ -1,6 +1,6 @@
 Igor Chernous
 =====
-![]()
+![](https://i2.paste.pics/f4cf65de4308a6e59188a60d9497f999.png)
 
 &nbsp;
 
@@ -72,3 +72,30 @@ for (let i = 1; i <= 100; i++) {
 * GIT
 
 &nbsp;
+
+🎓 Education
+=====
+
+2009 - 2013
+:   **Technical maintenance of cars**
+
+    LIDA COLLEGE OF THE EDUCATIONAL INSTITUTION "YANKA KUPALA STATE UNIVERSITY OF GRODNO"
+
+2013 - 2018
+:   **Mechanical Engineering**
+
+    BREST STATE TECHNICAL UNIVERSITY
+
+2018
+:   **Interactive methods of teaching and upbringing**
+
+    REPUBLICAN INSTITUTE FOR VOCATIONAL EDUCATION
+
+&nbsp;
+
+📚 Languages
+=====
+
+* Russian (Native)
+* English (Pre-Intermediate A2)
+* Polish (Beginner)
