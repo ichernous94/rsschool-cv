@@ -149,3 +149,118 @@ body {
     color: var(--font-white);
     background-color: var(--font-gold);
 }
+
+/* Main style */
+
+.main {
+    display: flex;
+}
+.section-left {
+    width: 35%;
+    background-color: var(--bg-dark);
+    color: var(--font-white);
+}
+
+/* Contact style */
+
+.contact, .language, .work, .code, .skills, .projects {
+    position: relative;
+    margin: 30px 0 30px 30px;
+    text-align: left;
+}
+.contact::after, .language:after, .skills::after {
+    position: absolute;
+    content: "";
+    width: 45px;
+    height: 6px;
+    background-color: var(--font-gold);
+    left: 0px;
+    top: 44px;
+}
+.title {
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-size: var(--font2);
+    letter-spacing: 2px;
+    color: var(--font-gold);
+    border-bottom: 2px solid var(--font-gold);
+}
+.list {
+    list-style: none;
+}
+.item {
+    font-size: var(--font3);
+    line-height: 1.5;
+    padding-top: 30px;
+}
+.icon {
+    width: 50px;
+    cursor: pointer;
+}
+.contact__item {
+    display: flex;
+    align-items: center;
+}
+.contact__link, .fa, .footer__git, .footer__text {
+    text-decoration: none;
+    color: var(--font-white);
+    transition: color 1s;
+}
+.contact__link:hover, .fa:hover, .footer__git:hover, .footer__text:hover {
+    color: var(--font-gold);
+}
+
+/* Education style */
+
+.education {
+    text-align: left;
+}
+.education__title {
+    padding: 15px 30px;
+    background-color: var(--font-gold);
+    color: var(--bg-dark);
+    border-bottom: none;
+}
+.education__list {
+    padding: 0 30px 30px 30px;
+    background-color: var(--bg-grey);
+}
+.education__item p {
+    padding-top: 5px;
+}
+.education__item p:nth-child(2) {
+    color: var(--font-gold)
+}
+
+/* Language style */
+
+.language__item {
+    display: flex;
+    align-items: center;
+    padding-right: 30px;
+}
+
+/* Skills style */
+
+.skills-text {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px 30px 30px 0;
+}
+.svg {
+    margin-right: 15px;
+    width: 36px;
+    height: 36px;
+}
+.precent {
+    width: 45%;
+    height: 14px;
+    margin-left: 15px;
+    border: 2px solid var(--font-gold);
+}
+.precent-skills {
+    height: 10px;
+    background-color: var(--font-gold);
+    border-radius: 0 20px 20px 0;
+}
