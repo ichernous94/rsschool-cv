@@ -9,7 +9,6 @@ Igor Chernous
 
 * [Address: 80-008, Polska, Województwo pomorskie, Gdańsk](https://www.gdansk.pl/)
 * [Mail](ichernous94@gmail.com)
-* [Facebook](https://www.facebook.com/ichernous)
 * [Telegram](@ichernous)
 * [Github](https://github.com/ichernous94)
 
